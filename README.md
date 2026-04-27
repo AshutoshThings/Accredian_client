@@ -26,8 +26,8 @@ AI was utilized as an assistive tool during the development process to:
 - Rapidly generate structural boilerplate code and layout scaffolding for the Next.js components.
 - Assist in implementing the correct Next.js App Router patterns, such as the `layout.tsx` Metadata API and the `"use client"` directives for interactive components.
 
-## Improvements you would make with more time
-- **Real API Integration:** Replace the current local mock data arrays in the "Domain Expertise" and "FAQ" sections with dynamic data fetched from a live external API or Headless CMS.
+## Improvements I would make with more time
+- **Real API Integration:** I would replace the current local mock data arrays in the "Domain Expertise" and "FAQ" sections with dynamic data fetched from a live external API or Headless CMS.
 - **Advanced Animations:** Integrate an animation library like Framer Motion to add scroll-triggered reveal animations, smoother component mounting, and advanced micro-interactions.
 - **Functional Forms:** Build a dedicated contact modal or page and connect the "Enquire Now" buttons to a functional backend endpoint to capture leads.
 - **Accessibility (a11y) Enhancements:** Deepen screen-reader compatibility by adding comprehensive ARIA labels, ensuring strict semantic HTML throughout, and refining keyboard-only navigation focus states.
