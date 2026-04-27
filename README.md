@@ -3,7 +3,7 @@
 
 ```bash
    git clone https://github.com/AshutoshThings/Accredian_client.git
-   cd accredian-client
+   cd Accredian_client
    ```
 2. Install dependencies:
    ```bash
